@@ -1,5 +1,4 @@
-# prompt-engineering-project
-
+# prompt engineering project with open LLMs
 
 📌 Project Overview
 
@@ -63,17 +62,14 @@ Choosing the right prompting technique is key to getting meaningful responses.
 
 🚀 How to Run This Project
 
-Clone the Repository
-
+Clone the Repository::
 git clone <repo-url>
 cd prompt-engineering-project
 
-Install Dependencies
-
+Install Dependencies::
 pip install -r requirements.txt
 
-Run the Jupyter Notebook
-
+Run the Jupyter Notebook::
 jupyter notebook
 
 Experiment with different prompting techniques!
