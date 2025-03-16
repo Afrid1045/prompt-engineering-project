@@ -1,4 +1,4 @@
-# prompt engineering project with open LLMs
+# prompt engineering project with open LLMs for understanding
 
 📌 Project Overview
 
